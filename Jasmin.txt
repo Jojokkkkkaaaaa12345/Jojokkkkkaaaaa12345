@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 , jasmim
+
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?fluxuslust.m3u8
+
